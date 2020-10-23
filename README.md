@@ -20,7 +20,7 @@
     <a href="https://github.com/reoyamanaka/hangman.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=UDEM9QalSWM">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=UDEM9QalSWM" target="_blank">View Demo</a>
     .
     <a href="https://github.com/reoyamanaka/hangman/issues">Report Bug</a>
   </p>
@@ -68,7 +68,7 @@ git clone https://github.com/reoyamanaka/hangman.git
 
 <div align="center">
   <strong>YouTube Demo</strong><br>
-  <a href="https://www.youtube.com/watch?v=UDEM9QalSWM">
+  <a href="https://www.youtube.com/watch?v=UDEM9QalSWM" target="_blank">
     <img src="images/thumbnail.jpg" alt="Thumbnail" width="560" height="315">
   </a>
 </div>
