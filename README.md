@@ -46,8 +46,6 @@
 ### Built With
 
 * Python 3.8.1
-* IDLE 3.8.1
-* macOS High Sierra Version 10.13.6
 
 ## Getting Started
 
@@ -69,7 +67,7 @@ git clone https://github.com/reoyamanaka/hangman.git
 <div align="center">
   <strong>YouTube Demo</strong><br>
   <a href="https://www.youtube.com/watch?v=UDEM9QalSWM" target="_blank">
-    <img src="images/thumbnail.jpg" alt="Thumbnail" width="560" height="315">
+    <img src="images/thumbnail.jpg" alt="Thumbnail">
   </a>
 </div>
 
